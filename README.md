@@ -1,12 +1,3 @@
-# DExB2-development
-
-This repository is for all python workbook analysis for Data Exploration in Biology 2nd year course, at SBS in Edinburgh.
-
-The DExB2-development repository is private, for the course team to access and update materials over the years.
-
-Students have access to a different, curated, repository at https://github.com/edinburgh-bto/2025-DExB2 
-
-[How to update the student-visible repository instructions](https://github.com/edinburgh-bto/DExB2-development/issues/1)
 
 # 2025-DExB2
 
@@ -23,16 +14,18 @@ We plan to update the repository after each class with:
 
 To load (or update) this repository on the Noteable server:
 
-1. Login to Noteable, using the link on the [course Learn page](https://www.learn.ed.ac.uk/ultra/courses/_126808_1/outline) or via https://noteable.edina.ac.uk/launch
+1. Login to Noteable, using the link on the [course Learn page](https://www.learn.ed.ac.uk/ultra/courses/_126808_1/outline).
 2. Open a Standard Notebook (Python 3)
 3. **FIRST TIME ONLY** Go to the Git menu, click clone Git Repository and select URL: https://github.com/edinburgh-bto/2025-DExB2. This should create or update a folder called 2025-DExB2, that you can work in.
-4. **OTHER TIMES** - first navigate to the 2025-DExB2 on your Noteable server. Go to the Git menu, click `Pull from Remote`, and it should update your local files. **NOTE CHECK THIS ON UPDATED NOTEBOOK**
+4. **OTHER TIMES** - first navigate to the 2025-DExB2 on your Noteable server. Go to the Git menu, click `Pull from Remote`, and it should update your local files.
+
+Note: Please open Noteable only from the Biology 2A Learn course link. (Do not use direct URLs or bookmarks.) If your session times out or you see "server shut down," go back to Learn and click the course link again.
 
 Contact members of the course team for help.
 
-## What to do if you get a Git error message
+### What to do if you get a Git error message
 
-We recommend using Git `Pull from Remote` as described above. However, sometimes Git operations lead to erros.
+We recommend using Git `Pull from Remote` as described above. However, sometimes Git operations lead to errors.
 
 If you "force" an update using `Pull from Remote (Force)`, then you could lose local changes that you've made to files.
 
