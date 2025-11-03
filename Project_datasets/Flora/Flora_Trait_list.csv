@@ -1,0 +1,332 @@
+﻿Trait,Source,Definition
+Binomial,UK_flora-explorer,"Species binomen according to Stace, 2019"
+authors,UK_flora-explorer,"Author associated with the species binomen according to Stace, 2019"
+order,UK_flora-explorer,Taxonomic rank: Order
+family,UK_flora-explorer,Taxonomic rank: Family
+genus,UK_flora-explorer,"Taxonomic rank, sensu Stace 2019: Genus"
+species,UK_flora-explorer,"Taxonomic rank, sensu Stace 2019: Series"
+WCVP_URL,UK_flora-explorer,URL to main taxon name on World Checklist of Vascular Plants
+POWO_URL,UK_flora-explorer,URL to main taxon name on Plants of the World Online
+IPNI_URL,UK_flora-explorer,URL to main taxon name on International Plants Name Index
+accepted_WCVP_URL,UK_flora-explorer,URL to WCVP accepted taxon name on World Checklist of Vascular Plants if different from main taxon name
+StaceIV_nativity,UK_flora-explorer,Description of native status according to Stace 2019.
+Atlas_nativity_viaALIENATT_PLANTATT,UK_flora-explorer,"Description of native status according to Atlas of the British Isles, obtained from PLANTATT, 2008 and ALIENATT"
+Stace_Crawley_nativity_aliens,UK_flora-explorer,"Description of native status according to Alien Plants by Stace & Crawley, 2015."
+SLA,UK_flora-explorer,"Specific Leaf Area (total leaf area per total leaf dry mass) in mm2 mg-1, mean value taken from publicly available data from TRY database"
+LDMC,UK_flora-explorer,"Leaf Dry Matter Content (oven-dry mass per fresh mass) in g g-1, mean value taken from publicly available data from TRY database"
+seed_mass,UK_flora-explorer,"Seed mass in mg, mean value taken from publicly available data from TRY database"
+leaf_area,UK_flora-explorer,"Leaf area in mm2, mean value taken from publicly available data from TRY database"
+mean_veg_height,UK_flora-explorer,"Vegetative plant height in m, mean value taken from publicly available data from TRY database"
+max_veg_height,UK_flora-explorer,"Vegetative plant height in m, maximum value taken from publicly available data from TRY database"
+L_PLANTATT,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for light, small numbers indicate affinity to low light (deep shade), high numbers bright conditions, determined for British plants"
+F_PLANTATT,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for moisture (German ëFeuchtigkeití), small numbers indicate affinity to arid conditions, values of 10 or higher describe plants living as aquatics or submerged (12), determined for British plants"
+R_PLANTATT,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for soil acidity (reactivity - R), determined for British plants"
+N_PLANTATT,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for soil fertility (termed íNí, due to focus on nitrogen), determined for British plants"
+S_PLANTATT,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for salinity, determined for British plants"
+L_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for light, determined for central European plants"
+F_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for moisture (German ëFeuchtigkeití), determined for central European plants"
+R_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for soil acidity (reactivity - R), determined for central European plants"
+N_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for soil fertility (termed íNí, due to focus on nitrogen), determined for central European plants"
+S_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for salinity, determined for central European plants"
+T_Doring,UK_flora-explorer,"Ellenberg indicator values, describing realised niche for temperature, determined for central European plants"
+ECPE_CSR,UK_flora-explorer,"Life strategy of species as described by Grime (1974). Each species falls in to a triangular space formed by the extremities (C, S, R), describing its typical life strategy tendency."
+predicted_CSR,UK_flora-explorer,"Life strategy of species as described by Grime (1974). Each species falls in to a triangular space formed by the extremities (C, S, R), describing its typical life strategy tendency."
+growth_form,UK_flora-explorer,Plant growth form as determined by TRY contributors Engemann and G¸nther
+succulence,UK_flora-explorer,Species that were labelled as ìsucculentî or exhibiting ìsucculenceî in a query of the TRY databaseís publically available data on growth form were assigned the label ìsucculentî in our database
+life_form,UK_flora-explorer,Raunkiaer life-form; most likely category listed first; alternative life-forms afterwards. 
+biome,UK_flora-explorer,Broad biome the species is associated with.
+origin,UK_flora-explorer,"Description of origin country/region (most likely candidate for area plants where introduced from; not complete foreign distribution) as mentioned in Stace 2019, only for non-natives"
+TDWG_level_1_code,UK_flora-explorer," World Geographical Scheme for Recording Plant Distributions (WGSRPD) Level 1 codes, as defined by Brummitt in 2001, consist of Europe (1), Africa (2), Asia-Temperate (3), Asia-Tropical (4), Australasia (5), Pacific (6), Northern America (7), Southern America (8), and the Antarctic (9) (Brummitt, 2001), manually determined from origin descriptions"
+GB_Man_hectads_post2000,UK_flora-explorer,"Number of hectads with records of this species since 2000, from BSBI Ddb September 2020. Hectads of Great Britain (excluding Northern Ireland) and Isle of Man."
+Ire_hectads_post2000,UK_flora-explorer,"Number of hectads with records of this species since 2000, from BSBI Ddb September 2020. Hectads of Ireland (including Northern Ireland)."
+CI_hectads_post2000,UK_flora-explorer,"Number of hectads with records of this species since 2000, from BSBI Ddb September 2020. Hectads of the Channel Islands."
+GB_Man_hectads_1987_1999,UK_flora-explorer,"Number of hectads with records of this species between 1987 and 1999, from BSBI Ddb September 2020. Hectads of Great Britain (excluding Northern Ireland) and Isle of Man."
+Ire_hectads_1987_1999,UK_flora-explorer,"Number of hectads with records of this species between 1987 and 1999, from BSBI Ddb September 2020. Hectads of Ireland (including Northern Ireland)."
+CI_hectads_1987_1999,UK_flora-explorer,"Number of hectads with records of this species between 1987 and 1999, from BSBI Ddb September 2020. Hectads of the Channel Islands."
+GB_Man_hectads_2000_2009,UK_flora-explorer,"Number of hectads with records of this species between 2000 and 2009, from BSBI Ddb September 2020. Hectads of Great Britain (excluding Northern Ireland) and Isle of Man."
+Ire_hectads_2000_2009,UK_flora-explorer,"Number of hectads with records of this species between 2000 and 2009, from BSBI Ddb September 2020. Hectads of Ireland (including Northern Ireland)."
+CI_hectads_2000_2009,UK_flora-explorer,"Number of hectads with records of this species between 2000 and 2009, from BSBI Ddb September 2020. Hectads of the Channel Islands."
+GB_Man_hectads_2010_2019,UK_flora-explorer,"Number of hectads with records of this species between 2010 and 2019, from BSBI Ddb September 2020. Hectads of Great Britain (excluding Northern Ireland) and Isle of Man."
+Ire_hectads_2010_2019,UK_flora-explorer,"Number of hectads with records of this species between 2010 and 2019, from BSBI Ddb September 2020. Hectads of Ireland (including Northern Ireland)."
+CI_hectads_2010_2019,UK_flora-explorer,"Number of hectads with records of this species between 2010 and 2019, from BSBI Ddb September 2020. Hectads of the Channel Islands."
+hybrid_propensity,UK_flora-explorer,"Hybrid propensity (sensu Whitney et al., 2010)"
+scaled_hybrid_propensity,UK_flora-explorer,Scaled hybrid propensity (weighted by the number of intragenic combinations within the genus)
+BOLD_link1,UK_flora-explorer,"Hyperlink to BOLD database, which contains barcode sequences (rbcL, matK and ITS2), herbarium specimen and details about sample collection; each hyperlink accesses a different specimen, where possible, three individual BOLD_accessions are used per species"
+BOLD_link2,UK_flora-explorer,"Hyperlink to BOLD database, which contains barcode sequences (rbcL, matK and ITS2), herbarium specimen and details about sample collection; each hyperlink accesses a different specimen, where possible, three individual BOLD_accessions are used per species"
+BOLD_link3,UK_flora-explorer,"Hyperlink to BOLD database, which contains barcode sequences (rbcL, matK and ITS2), herbarium specimen and details about sample collection; each hyperlink accesses a different specimen, where possible, three individual BOLD_accessions are used per species"
+GS_1C_pg,UK_flora-explorer,Haploid genome size in picograms. Smallest measurement.
+GS_2C_pg,UK_flora-explorer,Diploid genome size in picograms. Smallest measurement.
+GS_1C_Mbp,UK_flora-explorer,Haploid genome size in mega base pairs. Smallest measurement.
+GS_2C_Mbp,UK_flora-explorer,Diploid genome size in mega base pairs. Smallest measurement.
+from_BI_material,UK_flora-explorer,Binary information on provenance of material used for the genome size measurement.
+data_source,UK_flora-explorer,Data source that contributed the genome size measurement in question.
+sporophytic_chromosome_number,UK_flora-explorer,"Sporophytic chromosome number, determined from material from the Britain and Ireland. Summary report of available information per species. Numbers are uniformly quoted as sporophytic number irrespective of the tissue from which the count was derived. In doing this, particular care was taken in interpreting counts made on the gametophytes of apogamous ferns."
+infraspecific_variation_chrom_number,UK_flora-explorer,"Where chromosome counts are available, this column will indicate if diversity in chromosome counts has been observed in our dataset. For species with ""y"" the full range of counts is available in chrom_num_BI.csv"
+other_reported_sporophytic_chromosome_number,UK_flora-explorer,Chromosome count information from additional (non-British/Irish) sources.
+source_of_other_chrom_num,UK_flora-explorer,"Data source(s) that contributed the chromosome counts listed in ""other_reported_sporophytic_chromosome_number""."
+Leaf Relative water content (water content / water content at saturation),TRY,
+Leaf Water content (molar) per leaf dry mass (WCd),TRY,
+Leaf Water content saturating (molar) (WCs),TRY,
+Leaf Water content total (molar) (WCt),TRY,
+Leaf area index of the site (LAI),TRY,
+Leaf area: in case of compound leaves undefined if leaf or leaflet; undefined if petiole and rhachis in- or excluded,TRY,
+Leaf carbon content per area,TRY,
+Leaf carbon content per dry mass,TRY,
+Leaf carbon/nitrogen (C/N) ratio,TRY,
+Leaf carotenoid content per dry mass,TRY,
+Leaf chlorophyll a content per dry mass,TRY,
+Leaf chlorophyll a+b content per area,TRY,
+Leaf chlorophyll a/b ratio,TRY,
+Leaf chlorophyll b content per dry mass,TRY,
+Leaf chlorophyll content (a+b) per dry mass,TRY,
+Leaf compoundness,TRY,
+Leaf dry matter content per leaf water-saturated mass (LDMC),TRY,
+Leaf lamina thickness,TRY,
+"Leaf lifespan (longevity, retention time, LL)",TRY,
+Leaf nitrogen content per area (Narea),TRY,
+Leaf nitrogen content per dry mass (Nmass),TRY,
+Leaf petiole length,TRY,
+Leaf phenology type,TRY,
+Leaf phosphorus content per area (Parea),TRY,
+Leaf phosphorus content per dry mass (Pmass),TRY,
+Leaf respiration per area at leaf temperature,TRY,
+Leaf respiration per dry mass,TRY,
+Leaf thickness,TRY,
+Leaf tissue density,TRY,
+Leaf transpiration (molar) per dry mass,TRY,
+Leaf transpiration rate per dry mass (daytime),TRY,
+Leaf water content per leaf dry mass,TRY,
+"Leaf water content per leaf water-saturated mass (LWC, 1-LDMC)",TRY,
+Leaf water content saturating,TRY,
+Leaf water content total,TRY,
+Leaf water saturation deficit,TRY,
+2C DNA content,Ecological Flora,['value (¬µg)']
+After ripening requirement,Ecological Flora,"['none', 'partial', 'absolute']"
+Age at first flowering (years),Ecological Flora,"['<6 weeks', '6-12 weeks', '12-24 weeks', '24-52 weeks', '1-2 years', '2-5 years', '5-20 years', '>20 years']"
+"Age at maturity of resprouts¬†(MatResp, V)",Ecological Flora,"['(Average age of resprouts at the first successful reproduction (yr), i.e. when most of the resprouted plants produce the first seed crop.)', 'early(< 5 yr)', 'medium(5-10 yr)', 'late(> 10 yr)']"
+"Age at maturity of saplings¬†(MatSap, V).",Ecological Flora,"['(Average age of saplings at the first successful reproduction (yr), i.e. when most of the saplings produce the first seed crop, excluding saplings from plantations.)', 'early(< 5 yr)', 'medium(5-10 yr)', 'late(> 10 yr)']"
+Altitude: 1. maximum recorded,Ecological Flora,['value']
+Altitude: 1. minimum recorded,Ecological Flora,['value']
+Altitude: 1. typical minimum,Ecological Flora,['value']
+Annual precipitation,Ecological Flora,['(Calculated from New Atlas plus climatic data)']
+Annual seed dispersal pattern,Ecological Flora,"['regular', 'alternate', 'mast', 'irregular']"
+"Annual seed production¬†(SeedProd, V).",Ecological Flora,"['(Average number of seeds per plant produced every year (# seeds). Alternatively, one of the following categories:)', 'rarely(rarely, if ever, produces seeds in the study area.)', 'few(<= 50 seeds.)', 'medium(50-500 seeds.)', 'many(> 500 seeds.)']"
+Appendages on dispersal unit,Ecological Flora,"['elaisome', 'mucilage', 'wings', 'pappus', 'plume of hairs', 'hooks']"
+Auricle (description),Ecological Flora,
+"Average bark thickness¬†(BarkThick, V).",Ecological Flora,"['(Average bark thickness (mm) of the main stem at breast height for trees; if available, it should include the diameter (cm) at the height that the bark was measured (as quantitative conditional, i.e., BT|Diam,). For woody plants only. Note that in many cases both BT and Diam are mean values of a population (not for an individual tree).)', 'thin(<= 2 mm.)', 'moderate(2-15 mm.)', 'thick(> 15 mm.)']"
+"Average height¬†(Height, V).",Ecological Flora,"['(Maximum height (m), excluding extremes and reproductive shoots.)']"
+"Average leaf area¬†(LeafArea, V).",Ecological Flora,"['(Average one-sided projected surface area (mm2) of an individual leaf (or phyllodes)40. For compound leaves, leaflets area √ó leaflets number. For species with different stem and basal leaves, it refers to stem leaves.)', 'very small(small needle-like, scale-like, and linear leaves (typically less than 25 mm2).)', 'small(large linear leaves or small broad leaves (typically 25-225 mm2).)', 'medium(moderate broad leaves or divided leaves with moderate leaflets (typically 225-2025 mm2).)', 'large(large broad leaves, or divided leaves with numerous and large broad leaflets (typically 2025-4550 mm2).)', 'very large:(very large broad leaves, usually divided (typically more than 4550 mm2).)']"
+"Average leaf lifespan¬†(LeafLifespan, V).",Ecological Flora,['Average time period (months) during which an individual leaf (or phyllodes) of a woody species is alive and physiologically active40 (= leaf longevity). For woody species only.(Average time period (months) during which an individual leaf (or phyllodes) of a woody species is alive and physiologically active40 (= leaf longevity). For woody species only.)']
+"Average specific leaf area¬†(SLA, V).",Ecological Flora,"['Average one-sided area of the fresh leaf (or phyllodes) divided by its oven-dry mass40,42, excluding petiole and/or rachis; for mature plants only. Units are mm2 mg-1 (note that mm2 mg-1 √ó 10 = cm2 g-1).(Average one-sided area of the fresh leaf (or phyllodes) divided by its oven-dry mass40,42, excluding petiole and/or rachis; for mature plants only. Units are mm2 mg-1 (note that mm2 mg-1 √ó 10 = cm2 g-1).)']"
+"Basic leaf shape¬†(LeafShape, F).",Ecological Flora,"['(Shape of leaves, phyllodes or leaflets for compound leaves. For species with different stem and basal leaves, it refers to stem leaves.)', 'none(without leaves or any functional analogue organ. If leaves are modified as spines, then LeafShape=spines (see below).)', 'broad(plant with broad leaves (for compound leaves, this refers to leaflets).)', 'needle-like(plant with needle-like leaves.)', 'linear(plant with linear leaves (for compound leaves, this refers to leaflets).)', 'scale-like(plant with scale-like leaves.)', 'spines(leaves are modified as spines (which is different from having spines or thorns in the branches).)', 'succulent(plant with succulent (water-stored, thick and fleshy) leaves.)']"
+"Basic seed shape¬†(SeedShape, V).",Ecological Flora,"['(Ratio between the two maximum diameters: first maximum divided by the second maximum, excluding structures attached to the seed coat as wings or pappus.)', 'regular(close to 1 (spherical or lens-shaped seeds).)', 'irregular(far to 1 (elongated seeds).)']"
+Biome,Ecological Flora,"['0(Mediterranean (native range of some aliens))', '1(Arctic Montane ( main distribution in tundra or above treeline in temperate mountains)', '2(Boreo-Arctic Montane (in tundra and coniferous forest zones))', '3(Wide Boreal ( from temperate zone to tundra))', '4(Boreal montane (main distribution in coniferous forest zone))', '5(Boreo-Temperate (in conifer and broadleaf zones))', '6(Wide Temperate (from Mediterranean region to coniferous forest zone))', '7(Temperate (in broadleaf forest zone))', '8(Southern Temperate (in Mediterranean Region and Broadleaf forest zones))', '9(Mediterranean-Atlantic( in Mediterranean region and extending north in Atlantic zone of temperate Europe)', '']"
+British Distribution (all records),Ecological Flora,['value ( no. of 10k squares)']
+British Distribution (post-1949 records),Ecological Flora,['value ( no. of 10k squares)']
+"Bud source¬†(BudSource, V).",Ecological Flora,"['(Location of the bud bank for resprouting species44)', 'epicormic buds(stem buds (protected by the bark).)', 'apex(buds in the stem apex protected from fire by leaf bases)', 'root crown(transition point between stem and root.)', 'lignotuber(woody swelling below or just above the soil, ontogenetically programmed (i.e., inherited character). Based on embryological and/or anatomical features.)', 'thickened root-crown(woody swelling below or just above the soil non-ontogenetically programmed (e.g. stem coalescence).)', 'burl(woody swelling below or just above the soil with the unspecified origin (no distinction between lignotuber and burl is reported).)', 'rhizomes(belowground horizontal stem (non-swollen).)', 'woody rhizomes(woody belowground horizontal stem.)', 'non-woody rhizomes(non-woody belowground horizontal stem - roots - rhizomes or roots: rhizomes and/or roots (unspecified).)', 'storage organs(non-woody storage organs, i.e., modified stems (bulbs, corms or stem tubers) or roots (root tubers).)', 'others(other bud sources, including those not clearly specified (e.g. stump).)']"
+"Canopy seed bank longevity¬†(CanopySeedBank, V).",Ecological Flora,"['(Presence and longevity of the stored seeds in the canopy.)', 'yes(seeds stored in the canopy is present (no information on longevity).)', 'no(no stored seeds in the canopy.)', 'short(2 - 3 years)', 'mid(4 - 10 yr)', 'long(>10 yr)']"
+Carnivory,Ecological Flora,"['leaves', 'traps', 'kills insects but not carnivorous', 'does not kill insects']"
+Carpel/style number,Ecological Flora,['value ?']
+Change Index,Ecological Flora,['(- 4.57) - (+4.7)((Telfer et al 2002) Measures the relative magnitude of change comparing the periods 1930-1960 with 1987-1999)']
+"Chemical germination cues¬†(ChemCues, V).",Ecological Flora,"['(Germinative response to smoke (smk), ash (ash), charcoal (cha), nitrogenous compounds like KNO3 (NC1), NaNO2 (NC2), NH4Cl (NC3), NH4HOC3 (NC4), NH4NO3 (NC5), or response to karrikins (KAR), cyanohydrins (CYN, including several cyanides, mandelonitrile, and glyceronitrile). The response in indicated before the vertical bar, and the chemical cue tested, after the vertical bar (e.g. stimulation|smk).)', 'stimulation(|germination of the treated seeds higher than the control.)', 'unaffected(germination of treated seeds equal than the control.)', 'inhibition(germination of the treated seeds lower than the control.)']"
+Chromosome number,Ecological Flora,['value']
+Cleistogamy,Ecological Flora,"['entirely cleistogamous', 'usually cleistogamous', 'some cleistogamous flowers', 'sometimes cleistogamous', 'pseudocleistogamous', 'cleistogamy not recorded']"
+Clonality,Ecological Flora,"['C1(C1: the normal state.)', 'C2(C2:the less frequent state.)', '0(Little or no vegetative spread)', '0gr(Tussock forming graminoid, may slowly spread)', '0tb(Tuberous or bulbous slowly cloning by offsets)', 'Dra(Detaching ramets above ground, often axillary)', 'Drg(Detaching ramets at or below ground)', 'Dri(Detaching ramets on inflorescence)', 'Drl(Detaching ramets on leaves (Hammarbya))', 'Drp(Detaching ramets on prothallus (Trichomanes))', 'Frag(Fragmenting as part of normal growth)', 'Irreg(Irregularly fragmenting (mainly water plants))', 'Leaf(Plantlets forming on leaves (Cardamine pratensis))', 'Node1(Shortly creeping and rooting at nodes)', 'Node2(Extensively creeping and rooting at nodes)', 'Rhiz1(Rhizome shortly creeping)', 'Rhiz2(Rhizome far creeping)', 'Root(Clones formed by suckering from roots)', 'Stol1(Shortly creeping stolons in illuminated medium)', 'Stol2(Far creeping stolons in illuminated medium)', 'Tip(Tip rooting (stems often turn downwards))']"
+"Clonality¬†(Clonality, V).",Ecological Flora,"['(Ability to colonize the space through vegetative reproduction.)', 'rhizomes(non-swollen belowground horizontal stem that grows near the soil surface with the ability to produce roots and stems. Rhizomes s.l., i.e., including woody and non-woody rhizomes.)', 'roots(roots normally growing close to the soil surface.)', 'rhizomes or roots(rhizomes and/or roots (not differentiated).)', 'storage organ(non-woody storage organs, normally modified stems (bulbs, corms or stem tubers) or roots (root tubers).)', 'stolons(aboveground horizontal stems.)', 'yes(clonal plant with unknown system.)', 'no(without clonality ability.)']"
+"Coarse:fine fuel¬†(CFFuel, V).",Ecological Flora,"['(Coarse to fine fuel biomass ratio (i.e., >= 6 mm diameter and < 6 mm diameter, respectively), including live and dead material.)', 'low(without coarse fuel; all fuel is fine.)', 'moderate(abundant fine fuel and low coarse fuel.)', 'high(abundant fine fuel and abundant coarse fuel.)', 'very high(scarce fine fuel and abundant coarse fuel.)']"
+Conservation Status,Ecological Flora,"['vu(Vulnerable)', 'ew(extinct in the wild)', 'en(Endangered)', 'cr(Critically endangered)', 'ex(Extinct)', '(Alien taxa)']"
+Continentality in Europe,Ecological Flora,['c(Continental: rare in the Atlantic zone but commoner further east)']
+Continents where introduced,Ecological Flora,"['Europe', 'Africa', 'Macaronesia', 'Asia', 'North America', 'Australasia']"
+Continents where native,Ecological Flora,"['Europe', 'Africa', 'Macaronesia', 'Asia', 'North America', 'Australasia']"
+"Dead fine fuel¬†(DeadFuel, V).",Ecological Flora,"['(Standing fine (< 6 mm diameter) dead biomass (including twigs, leaves, inflorescences, bark) attached to the plant during the dry season expressed in proportion of the aboveground biomass (for non-senescent individuals) (%).)', 'low(<= 5 %)', 'medium(5-20 %)', 'high(>=20 %)']"
+"Diaspore¬†(Diaspore, F).",Ecological Flora,"['(Dispersal unit for sexual reproduction.)', 'seed(including some single-seeded fruits such as achenes or caryopsis.)', 'fruit(single or aggregated fruit.)', 'spore(spore)']"
+Dichogamy,Ecological Flora,"['entirely protandrous', 'protandrous', 'markedly protandrous', 'wealky protandrous', 'homogamous', 'wealky protogynous', 'markedly protogynous', 'protogynous', 'entirely protogynous']"
+Dicliny,Ecological Flora,"['hermaphrodite', 'andromonoecious', 'monoecious', 'gynomonoecious', 'dioecious', 'androdioecious', 'gynodioecious', 'subandroecious', 'subgynoecious', 'subdioecious', 'trioecious', 'polygamous', 'gynoandromonoecious']"
+Dispersal agent,Ecological Flora,"['unspecialised', 'water', 'rainwash', 'wind', 'carried by mammals', 'carried by birds', 'ants', 'eaten by mammals', 'eaten by birds', 'explosive mechanism', 'man']"
+"Dispersal mode¬†(DispMode, F).",Ecological Flora,"['(The vector(s) used for dispersal (of seeds or any other dispersal unit for sexual reproduction). One or several types, e.g.: GW means that both Gravity and Wind are important); if several, typically the first is the most important.)', 'G(autochory, by Gravity (= unassisted dispersal).)', 'W(anemochory, by Wind (with wind dispersal adaptations).)', 'H(Hydrochory, by water.)', 'B(Ballistichory, by launching (= ballochory).)', 'M(Myrmecochory, by ants.)', 'N(eNdozoochory, internal animal transport.)', 'P(ePizoochory, external animal transport (= exozoochory).)', 'O(hOarding, scatter and hoarding diaspores by animals (others than ants).)', 'Z(Zoochory, dispersal mediated by animals (unknown transport system).)']"
+Dispersule size- length of longest axis,Ecological Flora,['value (mm)']
+Drought Tolerance,Ecological Flora,"['value 0-5(Low (0) to high (5) -Niinements & Validarez, Ecological Monographs 76:521‚Äì547)']"
+Dynamics,Ecological Flora,"['increasing', 'stable', 'declining']"
+EW index,Ecological Flora,"['value (0-10)(Derived as above with each region weighted according to how far)', '(west it is. 0 - east, 10 west)']"
+Eastern Limit,Ecological Flora,"['0(Hyperoceanic : with a western distribution in the Atlantic Zone)', '1(Oceanic : in Atlantic zone of Europe, not or scarcely reaching east to Sweden, Germany or South Spain)', '2(Suboceanic : extending to Sweden, Central Europe or Italy)', '3(European :extending to more continental parts of Europe but not to Siberia)', '4(Euro-Siberian : eastern limit between 60 and 120 E)', '5(Eurasian: extending across Asia to east of 120E)', '6(Circumpolar : in Europe, Asia and North America)']"
+Ellenberg Indicator: Light,Ecological Flora,['(Hill et al. (1999))']
+Ellenberg Indicator: Moisture,Ecological Flora,['(Hill et al. (1999))']
+Ellenberg Indicator: Nitrogen,Ecological Flora,['(Hill et al. (1999))']
+Ellenberg Indicator: Salt,Ecological Flora,['(Hill et al. (1999))']
+Ellenberg Indicator: pH,Ecological Flora,['(Hill et al. (1999))']
+Exposure,Ecological Flora,"['exposed', 'indifferent', 'sheltered']"
+F : Moisture¬†(from the German Feuchtigkeit),Ecological Flora,"['1(Indicator of extreme dryness, restricted to soils that often dry out for some time (Corynephorus canescens, Helianthemum apenninum, Koeleria vallesiana).)', '2(Between 1 and 3 (Clinopodium acinos, Saxifraga tridactylites, Sedum acre).)', '3(Dry-site indicator, more often found on dry ground than in moist places (Asplenium trichomanes, Centaurea scabiosa, Spergularia rubra).)', '4(Between 3 and 5 (Arctium minus, Helictotrichon pratense, Iris foetidissima, Thymus polytrichus).)', '5(Moist-site indicator, mainly on fresh soils of average dampness (Anthriscus sylvestris, Euphorbia amygdaloides, Hyacinthoides nonscripta, Solanum nigrum).)', '6(Between 5 and 7 (Agrostis stolonifera, Empetrum nigrum, Rumex crispus).)', '7(Dampness indicator, mainly on constantly moist or damp, but not on wet soils (Carex ovalis, Dactylorhiza maculata, Pulicaria dysenterica, Ranunculus repens).)', '8(Between 7 and 9 (Cardamine pratensis, Equisetum telmateia, Phalaris arundinacea, Schoenus nigricans).)', '9(Wet-site indicator, often on watersaturated, badly aerated soils (Drosera rotundifolia, Myosotis scorpioides, Vaccinium oxycoccus, Viola palustris).)', '10(Indicator of shallow-water sites that may lack standing water for extensive periods (Alisma plantago-aquatica, Carex limosa, Ranunculus lingua, Typha latifolia).)', '11(Plant rooting under water, but at least for a time exposed above, or plant floating on the surface (Lemna minor, Nuphar lutea, Sagittaria sagittifolia, Schoenoplectus lacustris).)', '12(Submerged plant, permanently or almost constantly under water (Isoetes lacustris, Potamogeton crispus, Ranunculus circinatus, Zostera marina).)']"
+Fertilisation,Ecological Flora,"['Obligatory cross', 'normally cross', 'cross and self', 'cross or automatic self', 'normally self', 'viviparous', 'apomictic', 'no seed in Britain']"
+Fine root diameter (¬µm),Ecological Flora,"['<100(diameter of terminal roots)', '100-150', '150-200', '200-300', '300-500', '500-1000', '>1000']"
+"Fire-stimulated flowering¬†(FireStimFlower, V)",Ecological Flora,"['(Fire-stimulated flowering in post-fire resprouters.)', 'no(lower or similar flowering post-fire than in unburned vegetation.)', 'yes(higher flowering post-fire than in unburned vegetation (includes facultative and obligate post-fire flowering); these are mostly geophytes.)']"
+First historical record:1. Date,Ecological Flora,['value']
+First historical record:1. Site,Ecological Flora,['value - place name']
+Flow,Ecological Flora,"['nil(Aquatic species)', 'slight', 'mid', 'rapid']"
+"Flower Colour ( primary, with additional colours)",Ecological Flora,['description']
+Flowering time:1 earliest month,Ecological Flora,['value (month)']
+Flowering time:2 latest month,Ecological Flora,['value (month)']
+Flowering time:3 peak month,Ecological Flora,['value (month)']
+Fossil record : Earliest postglacial record,Ecological Flora,['value(not available)']
+Fossil record : Earliest record,Ecological Flora,['value(not available)']
+Fossil record : postglacial frequency,Ecological Flora,['value(not available)']
+"Fruit dry mass¬†(FruitMass, V).",Ecological Flora,"['(Average dry mass (mg) of single or aggregated fruits (excluding some single-seeded fruits such as achenes or caryopsis, that are typically considered as ""seeds""))', 'very light(< 3 mg)', 'light(3-30 mg)', 'medium(30-300 mg)', 'heavy(300-3000 mg)', 'very heavy(> 3000 mg)']"
+"Fruit type¬†(FruitType, F).",Ecological Flora,"['(Type of the fruit. Including single or aggregated fruits (dispersal unit).)', 'dry(dry fruit.)', 'fleshy(fleshy fruit, including fruit in which the fleshy part is the floral cup (hypanthium) (e.g. Rosa))']"
+Germination requirements: 2. Light,Ecological Flora,"['', 'Partial(See chilling for definition of partial)', 'Absolute']"
+Germination requirements: 3. Temperature fluctuation,Ecological Flora,"['none', 'partial(See chilling for definition of partial)', 'absolute']"
+Germination requirements:1. Chilling,Ecological Flora,"['', 'Partial(Chilling increases germination % or required in the absence of other factors, or by some but not all seeds)', 'Absolute']"
+Germination type,Ecological Flora,"['hypogeal', 'epigeal']"
+"Heat-stimulated germination¬†(HeatStimGerm, V).",Ecological Flora,"['(The highest intensity in heat treatments (i.e., seed exposition to dry heat >= 50¬∞C) that produce higher germination than the control (i.e., stimulated germination). Heat intensity defined as: Low (L: < 100¬∞C during <=5 min.), Moderate (M: < 100¬∞C during >5 min. or >= 100¬∞C during <= 5 min.), High (H: >= 100¬∞C during > 5 min.) or unknown (unk). Note that in many cases, post-treatment seed viability is not considered or not specified. The heat intensities tested for each experiment are indicated after the vertical bar (category|LMH), with an underscore when the corresponding heat intensity is not tested (e.g., category|L_H).)', 'yes|unspecified(stimulated germination is produced after unspecified heat intensity exposure.)', 'high(LMH)(stimulated germination after exposure to High-intensity treatments.)', 'moderate(LMH)(the highest heat intensity that produces stimulated germination is Moderate)', 'low(LMH)(the highest heat intensity that produces stimulated germination is Low)', 'unaffected(LMHU)(germination is not stimulated after any heat intensity tested and at least one of the treatments does not affect seed germination)', 'inhibition(LMHU)(inhibited germination (i.e., lower germination than control) in all heat treatments tested)']"
+Heavy metal resistance,Ecological Flora,"['none', 'pseudometallophyte', 'local metallophyte', 'absolute metallophyte']"
+Height: 1 extreme maximum,Ecological Flora,['value (cm)']
+Height: 1 extreme minimum,Ecological Flora,['value (cm)']
+Height: 1 typical maximum,Ecological Flora,['value (cm)']
+Height: 1 typical minimum,Ecological Flora,['value (cm)']
+Heteromorphy,Ecological Flora,"['homomorphic', 'dimorphic', 'trimorphic']"
+Heterophylly,Ecological Flora,"['not appliccable(leafless species)', 'none', 'developmental(individuals have >1 leaph morphology irrespective of growth conditions)', 'environmental(heterophylly induced by environmentl factors)']"
+Inbreeding,Ecological Flora,['value (%)']
+Incompatibility System,Ecological Flora,"['none', 'gametophytic 1 locus', 'gametophytic 2 locus', 'gametophytic >2 locus', 'di-allelic sporophytic', 'multi-allelic sporophytic', 'mechanism unknown']"
+Inflorescence type,Ecological Flora,['description']
+"Integrated water-use efficiency¬†(d13C, V).",Ecological Flora,['(Delta 13C (‚àÜ13C) isotope ratio [P√©rez-Harguindeguy et al. 2016].)']
+January mean temperature,Ecological Flora,['(Calculated from New Atlas plus climatic data)']
+July mean temperature,Ecological Flora,['(Calculated from New Atlas plus climatic data)']
+L: Light¬†(values for canopy tree species refer to preferences of the sapling stage of the life cycle),Ecological Flora,"['1(1 Plant in deep shade (no examples for GB). 2 3 4 5 6 7 8 9)', '2(Between 1 and 3 (Epipogium aphyllum, Neottia nidus-avis, Trichomanes speciosum).)', '3(Shade plant, mostly less than 5% relative illumination, seldom more than 30% illumination when trees are in full leaf (Galium odoratum, Listera cordata, Mercurialis perennis).)', '4(Between 3 and 5 (Circaea lutetiana, Lamiastrum galeobdolum, Poa nemoralis).)', '5(Semi-shade plant, rarely in full light, but generally with more than 10% relative illumination when trees are in leaf (Carex pendula, Hyacinthoides non-scripta, Primula vulgaris).)', '6(Between 5 and 7 (Anthriscus sylvestris, Digitalis purpurea, Teucrium scorodonia).)', '7(Plant generally in well lit places, but also occurring in partial shade (Arrhenatherum elatius, Carex flacca, Poa trivialis, Vicia cracca).)', '8(Light-loving plant rarely found where relative illumination in summer is less than 40% (Cardamine hirsuta, Orchis morio, Thymus polytrichus, Vaccinium oxycoccus).)', '9(Plant in full light, found mostly in full sun (Aster tripolium, Melilotus albus, Poa compressa, Primula farinosa).)', '', '']"
+Leaf area (sq cm),Ecological Flora,"['<0.1(area of entire leaf if compound)', '0.1-1', '45931', '10-100', '100-1000', '>1000']"
+"Leaf division degree¬†(LeafDivision, F).",Ecological Flora,"['(Division degree of leaves (or phyllodes). For species with different stem and basal leaves, it refers to stem leaves.)', 'simple(simple leaves.)', 'compound(compound or divided leaves.)']"
+"Leaf dry matter content¬†(LDMC, V).",Ecological Flora,"['(mg g-1),(Dry matter content of leaves (mg g-1), that is, the ratio of the dry mass of a leaf to its water saturated fresh mass40,41.)']"
+Leaf folding ( grasses),Ecological Flora,"['folded', 'Rolled']"
+Leaf lamina thickness (mm),Ecological Flora,"['<0.2', '0.2-0.5', '0.5-1.0', '1.0-2.0']"
+Leaf longevity: 1. type,Ecological Flora,"['aestival(spring-autumn)', 'vernal(winter-spring)', 'hibernal(autumn - early summer)', 'semi-evergreen(evergreen in some habitats or incomplete senescence)', 'evergreen']"
+Leaf longevity: 2. Number of months,Ecological Flora,"['0-1', '45811', '45998', '13-24', '>24']"
+"Leaf phenology¬†(LeafPhenology, F).",Ecological Flora,"['(Phenology of leaves (or phyllodes). For woody species only.)', 'evergreen(plant that maintains green leaves all year.)', 'winter deciduous(plant that drops all its leaves during the winter.)', 'winter semi-deciduous(plant that drops part of its leaves during the winter, maintaining some brownish leaves in the crown)', 'drought semi-deciduous(plant that drops part of its leaves during the dry period (excluding species that drop leaves only in very extreme droughts).)']"
+Leaf position,Ecological Flora,"['emergent(Aquatic plants)', 'floating', 'submerged']"
+Leaf shape: 3 tip shape,Ecological Flora,"['not applicable(leafless plants)', 'pointed', 'rounded', 'mucronate', 'emarginate']"
+Leaf shape: 4 length versus breadth,Ecological Flora,"['not applicable(leafless plants)', '>3 X as long as wide', '1-3 X as long as wide', 'length = width', 'shorter than broad']"
+Leaf shape: 5: leaf base,Ecological Flora,"['not applicable(leafless plants)', 'saggitate', 'cordate', 'rounded', 'truncate', 'parallel sided', 'cuneate', 'central']"
+Leaf shape: 6,Ecological Flora,"['not applicable(leafless plants)', 'clasping', 'petiolate', 'subsessile', 'sessile', 'connate', 'sheathing']"
+Leaf shape: 7 minimum petiole length,Ecological Flora,['value mm.']
+Leaf shape: 8: maximum petiole length,Ecological Flora,['value mm.']
+Leaf shape:1. outline,Ecological Flora,"['not applicable(leafless plants)', 'entire', 'crenate', 'toothed', 'lobed', 'lobed and toothed', 'serrulate']"
+Leaf shape:1. type,Ecological Flora,"['compound', 'simple', 'absent', 'modified(Carnivorous plants)']"
+Lemma glume (grasses) size and description,Ecological Flora,"['', '', '']"
+Life Form,Ecological Flora,"['L1(L1: the normal state.)', 'L2(L2 :the less frequent state)', 'Ch(chamaephyte)', 'Gb(Bulbous geophyte)', 'Gn(Non-bulbous geophyte)', 'Hc(Hemicryptophyte)', 'Hy(Perennial hydrophyte)', 'Hz(Annual hydrophyte (aquatic therophyte))', 'Ph(Mega- meso- and micro- phanerophyte)', 'Pn(Nanophanerophyte)', 'Th(Therophyte)']"
+"Life Form¬†(GrowthForm, F).",Ecological Flora,"['Life Form\xa0(GrowthForm, F).(Life Form\xa0(GrowthForm, F).)', '(Morphology of the whole plant related with its size (for non-disturbed individuals).)', 'Tree(very tall woody plant, frequently with one main, primary stem and the green canopy rarely reaching the ground)', 'large shrub(Tall woody plant that under optimal conditions may reach arborescence structure)', 'shrub(woody plants (typically less than 1.5 m), frequently with several shoots growing from the soil level and/or the green canopy reaching the ground.)', 'liana(woody (or slightly ligneous at the base) climber.)', 'subshrub(dwarf woody plant or chamaephytes (typically less than 50 cm), including suffruticose (suffrutescent) plants.)', 'perennial forb(perennial broad-leaved herbaceous plant.)', 'perennial graminoid(perennial grass-like plant.)', 'annual forb(annual broad-leaved herbaceous plant.)', 'annual graminoid(annual grass-like plant.)', 'variable forb(annual, biennial or short-perennial forb.)', 'variable graminoid(annual, biennial or short-perennial grass)', 'geophyte(herbs that persist during the unfavorable period as bulbs, rhizomes or other subterranean storage organs)', 'epiphyte(plants growing on other plants for physical support.)']"
+Life form,Ecological Flora,"['therophyte', 'hemicryptophyte', 'helophyte', 'hydrophyte', 'geophyte', 'chamaehpyte', 'phanerophyte', 'epiphyte']"
+Ligule (description),Ecological Flora,
+Longevity,Ecological Flora,"['(Average maximum age (=longevity) for perennials (year).)', 'very short(<= 2 yr)', 'short(2-5 yr)', 'medium(5-25 yr)', 'long(25-150 yr)', 'very long(> 150 yr)']"
+Lower glume (grasses) size and description,Ecological Flora,
+"Mass-based leaf nitrogen content¬†(LNCm, V).",Ecological Flora,"['Leaf nitrogen content (mass-based) (mg g-1), that is, the ratio of the quantity of nitrogen in the leaf per respective unit dry mass40,41.(Leaf nitrogen content (mass-based) (mg g-1), that is, the ratio of the quantity of nitrogen in the leaf per respective unit dry mass40,41.)']"
+Mature leaf N concentration (mg/g),Ecological Flora,"['<5', '45935', '44105', '20-30']"
+Mature leaf P concentration (mg/g),Ecological Flora,"['<1', '45689', '45718', '>3']"
+Max stem diameter (mm),Ecological Flora,['value']
+Maximum depth of leaves,Ecological Flora,"['<0.5m(Aquatic species)', '>0/5m']"
+"Maximum rooting depth¬†(RootDepth, V).",Ecological Flora,['(Maximum depth of the roots (m))']
+Maximum seedbank density,Ecological Flora,['value (m2)']
+Maximum temperature for 50% germination,Ecological Flora,['value ¬∫c']
+Maximum temperature of germination,Ecological Flora,['value ¬∫c']
+Mean Dry Weight (mg),Ecological Flora,"['value', '']"
+Mean Spore Diameter (Pteridophytes),Ecological Flora,['value (¬µm)']
+Mean seedbank density,Ecological Flora,['value (m2)']
+Minimum seedbank density,Ecological Flora,['value (m2)']
+Minimum temperature for 50% germination,Ecological Flora,['value ¬∫c']
+Minimum temperature of germination,Ecological Flora,['value ¬∫c']
+Mono/polycarpic,Ecological Flora,"['monocarpic', 'facultatively polycarpic(may but does not always flower more than once)', 'polycarpic']"
+N : Nitrogen¬†(in effect a general indicator of soil fertility),Ecological Flora,"['1(Indicator of extremely infertile sites (Agrostis curtisii, Clinopodium acinos, Drosera rotundifolia, Rubus chamaemorus).)', '2(Between 1 and 3 (Aira praecox, Carex panicea, Linum catharticum, Scabiosa columbaria).)', '3(Indicator of more or less infertile sites (Centaurea scabiosa, Galium saxatile, Pimpinella saxifraga, Teucrium scorodonia).)', '4(Between 3 and 5 (Agrostis capillaris, Cirsium palustre, Plantago lanceolata, Primula vulgaris).)', '5(Indicator of sites of intermediate fertility (Angelica sylvestris, Digitalis purpurea, Iris foetidissima, Trifolium pratense).)', '6(Between 5 and 7 (Cirsium arvense, Glyceria fluitans, Poa trivialis, Rumex crispus).)', '7(Plant often found in richly fertile places (Atriplex prostrata, Epilobium hirsutum, Stellaria media, Typha latifolia).)', '8(Between 7 and 9 (Beta vulgaris, Galium aparine, Lamium album, Urtica dioica).)', '9(Indicator of extremely rich situations, such as cattle resting places or near polluted rivers (Arctium lappa, Artemisia absinthium, Hyoscyamus niger, Rumex obtusifolius).)']"
+Normal method of propagation,Ecological Flora,"['seed', 'seed and vegetative', 'vegetative']"
+"Northern European Limit (Lat, 5¬∫ band)",Ecological Flora,
+Northern Limit in Britain,Ecological Flora,"['Yes(Native taxa at their northern European limit in the Br. Isles)', 'No(Native taxa not at their northern European limit in the Br. Isles)']"
+Number ofEuropean countries where native,Ecological Flora,
+Nutrition,Ecological Flora,"['autotrophic', 'mycotropic(dependent on a fungal symbiont for all or part of its carbon supply when adult)', 'hemi-parasitic', 'parasitic']"
+"Nutritional relationships¬†(NutritionalRelat, V).",Ecological Flora,"['(Long-term relationship with other species that are implicated in nutrient and/or energy uptake.)', 'ectomycorrhizal symbiosis(#NAME?)', 'endomycorrhizal symbiosis(plants with a mutualistic relationship with endomycorrhizal fungi.)', 'nodule bacteria symbiosis(plant with a mutualistic relationship with nitrogen-fixing bacteria.)', 'hemiparasite(photosynthetic plant (hemiparasite) that parasitize another photosynthetic plant (host).)', 'parasite(non-photosynthetic plant that parasitize either a photosynthetic plant (i.e. holoparasites) or a fungus (i.e., myco-heterotrophous).)', 'carnivorous(plant acquiring nutrients by capturing animals or protozoa.)', 'others(plants with other types of nutritional relationships, including a combination of several types of symbiosis (e.g. endo- and ectomycorrhizas).)', 'no(plant without obvious nutritional relationships.)']"
+"Other germination cues¬†(OtherCues, V).",Ecological Flora,"['(Germination response to exposition to boiling water (blw), mechanical scarification (mec), summer temperature (tsu), temperature fluctuation (tfu), light (lgt). The response is indicated before the bar and the cue tested is indicated after the vertical bar (category|cue, e.g., stimulation|blw).)', 'stimulation(germination of the treated seeds higher than the control.)', 'unaffected(germination of treated seeds equal to the control.)', 'inhibition(germination of the treated seeds lower than the control.)']"
+Palea (grasses) size and description,Ecological Flora,
+Petal Number,Ecological Flora,['value ?']
+Petal size (sepals if perianth of 1 sepaloid whorl),Ecological Flora,['value? (cm)']
+Photoperiodism: 1. threshold value,Ecological Flora,['value']
+Photoperiodism: 1. type,Ecological Flora,"['long day', 'day neutral', 'short day']"
+Photosynthetic pathway,Ecological Flora,"['C3', 'CAM', 'C4']"
+Physical defenses on buds,Ecological Flora,['see 6.02 for alternatives']
+Physical defenses on flowers/fruits,Ecological Flora,['see 6.02 for alternatives']
+Physical defenses on leaves,Ecological Flora,"['Dense hairs', 'glabrous', 'glandular hairs', 'prickles', 'soft hairs', 'spines', 'stiff hairs', 'stinging hairs', 'thick cuticle', 'viscid']"
+Physical defenses on stems,Ecological Flora,['see 6.02 for alternatives']
+Pollen / ovule ratio,Ecological Flora,['value']
+Pollen vector,Ecological Flora,"['insect', 'wind', 'water', 'none', 'selfed']"
+Pollen viability,Ecological Flora,"['high', 'variable', 'low']"
+Pollen: 1. morphism,Ecological Flora,"['monomorphic', 'dimorphic', 'trimorphic']"
+Pollen: 2. diameter,Ecological Flora,['value (¬µm)(length of polar axis)']
+"Post-fire seedling emergence¬†(SeedlEmerg, V).",Ecological Flora,"['(Average density of seedlings per pre-fire mature individuals emerged during the first year after fire. This is a ratio (number of seedlings / number of mature plants) or the following)', 'no(no post-fire seedlings emergence.)', 'low(number of seedlings lower than the number of pre-fire mature individuals.)', 'high(number of seedlings higher than the number of pre-fire mature individuals.)', 'yes(post-fire seedling emergence observed (quantitative data not available).)', 'variable(high variability observed between populations or sampled areas.)']"
+"Post-fire seedling survival¬†(SeedlSurv, V).",Ecological Flora,"['(Proportion of seedlings surviving the first dry season after fire (%). or the following)', 'no(no post-fire seedlings survival.)', 'low(survival < 25%)', 'high(survival >= 25%)']"
+"R : Reaction¬†(soil pH, or water pH)",Ecological Flora,"['1(Indicator of extreme acidity, never found on weakly acid or basic soils (Andromeda polifolia, Lycopodium clavatum, Rubus chamaemorus, Ulex minor).)', '2(Between 1 and 3 (Agrostis curtisii, Calluna vulgaris, Drosera rotundifolia, Polygala serpyllifolia).)', '3(Acidity indicator, mainly on acid soils, but exceptionally also on nearly neutral ones (Agrostis vinealis, Dactylorhiza maculata, Galium saxatile, Pteridium aquilinum).)', '4(Between 3 and 5 (Agrostis capillaris, Carex panicea, Juncus effusus, Teucrium scorodonia).)', '5(Indicator of moderately acid soils, only occasionally found on very acid or on neutral to basic soils (Cardamine pratensis, Cirsium palustre, Rubus idaeus, Ulex europaeus).)', '6(Between 5 and 7 (Ammophila arenaria, Carex sylvatica, Lolium perenne, Ranunculus ficaria).)', '7(Indicator of weakly acid to weakly basic conditions; never found on very acid soils (Agrimonia eupatoria, Atriplex prostrata, Nuphar lutea, Phleum pratense).)', '8(Between 7 and 9 (Artemisia vulgaris, Carduus nutans, Iris foetidissima, Viola hirsuta).)', '9(Indicator of basic reaction, always found on calcareous or other high-pH soils (Bunium bulbocastanum, Clinopodium calamintha, Dryopteris submontana, Primula farinosa).)']"
+Range: 1 European countries where introduced,Ecological Flora,['value - country(information extracted from Flora Europaea)']
+Range: 1 European countries where native,Ecological Flora,['value - country(information extracted from Flora Europaea)']
+Rarity Status,Ecological Flora,"['n(Present, not rare or scarce)', 's(Scarce, 16-100 km squares in Britain 1987-1999)', 'r(Rare, 1-15 10km squares in Britain 1987-1999)', 'o(ABsent from Britain and the Isle of Man as a native, but present in the channel Islands and/ or Ireland)', 'x(Apparently extinct ( not recorded since 1986))', 'i(Insufficient data available to assess rarity)', '(Alien taxa)']"
+"Resistance to xylem cavitation¬†(P50, V).",Ecological Flora,['(Xylem resistance to drought-induced cavitation (in MPa) [Pausas et al. 2016].)']
+Response to drought,Ecological Flora,"['resists', 'wilts and recovers', 'wilts', 'wilts and dies']"
+Response to frost (non-woody tissue),Ecological Flora,"['very resistant', 'resistant', 'sensitive']"
+Response to frost (seedlings),Ecological Flora,"['very resistant', 'resistant', 'sensitive']"
+Response to vertebrate grazing,Ecological Flora,"['decreases', 'neutral', 'increases']"
+"Resprouting capacity after clipping¬†(RespClip, V).",Ecological Flora,"['(Resprouting capacity one year after clipping 100% of the plant as average proportion of adult plants that resprout (percentage). Not reported for annual plants (which can be assumed to be RespClip=no).)', 'no(without resprouting capacity.)', 'low(few individuals resprouting and/or weak resprouts)', 'high(most individuals resprouting and/or vigorous resprouts.)', 'yes(with resprouting capacity (not quantified).)', 'variable(very high variability observed in the sampling area.)']"
+"Resprouting capacity after disturbances¬†(RespDist, V).",Ecological Flora,"['(Resprouting capacity after undefined disturbances (average proportion of adult plants that resprout as percentage). Not reported for annual plants (which can be assumed to be RespDist=no).)', 'no(without resprouting capacity.)', 'low(few individuals resprouting and/or weak sprouts.)', 'high(most individuals resprouting and/or vigorous sprouts.)', 'yes(with resprouting capacity (not quantified))', 'variable(very high variability observed in the sampling area.)']"
+"Resprouting capacity after fire¬†(RespFire, V).",Ecological Flora,"['(Resprouting capacity after one year when most of the plant has been scorched (average proportion of adult plants that resprout as percentage). Not reported for annual plants (which can be assumed to be RespFire=no).)', 'no(without resprouting capacity.)', 'low(few individuals resprouting and/or weak sprouts.)', 'high(most individuals resprouting and/or vigorous sprouts.)', 'yes(with resprouting capacity (not quantified).)', 'variable(very high variability observed in the sampling area.)']"
+Root depth: 1. type,Ecological Flora,"['shallow(With respect to the height of the stem)', 'deep']"
+Root depth: 2 depth (cm),Ecological Flora,"['0-10(depth to include most functional roots)', '18537', '50-100', '>100']"
+Root hair length (mm),Ecological Flora,"['<0.1', '0.1-0.5', '0.5-1.0', '1.0-5.0', '>5.0']"
+Root hairs,Ecological Flora,"['present', 'absent']"
+Root persistence,Ecological Flora,"['<1', '1', '>1']"
+Root system:,Ecological Flora,"['absent', 'tap root', 'fibrous', 'adventitious', 'contractile']"
+"S : Salt¬†(new definitions have been written for this account; definitions of Ellenberg et al. 1991, have a spurious accuracy).",Ecological Flora,"['0(Absent from saline sites; if in coastal situations, only accidental and nonpersistent if subjected to saline spray or water (85% of the British flora).)', '1(Slightly salt-tolerant species, rare to occasional on saline soils but capable of persisting in the presence of salt includes dune and dune-slack species where the ground water is fresh but where some inputs of salt spray are likely (Calystegia sepium, Chenopodium album, Oenanthe crocata, Sedum anglicum).)', '2(Species occurring in both saline and nonsaline situations, for which saline habitats are not strongly predominant (Atriplex prostrata, Elytrigia repens, Phragmites australis, Rumex crispus).)', '3(Species most common in coastal sites but regularly present in freshwater or on nonsaline soils inland (includes strictly coastal species occurring in sites such as cliff crevices and sand dunes that are not obviously salt-affected) (Cakile maritima, Cochlearia officinalis, Juncus gerardii, Spergularia rupicola). 45 6 7 8 9)', '4(Species of salt meadows and upper saltmarsh, subject to at most only very occasional tidal inundation includes species of brackish conditions (ie of consistent but low salinity) (Atriplex littoralis, Elytrigia atherica, Glaux maritima, Triglochin maritimum).)', '5(Species of the upper edge of saltmarsh, where not inundated by all tides includes obligate halophytes of cliffs receiving regular salt spray (Aster tripolium, Crithmum maritimum, Puccinellia maritima, Suaeda vera).)', '6(Species of mid-level saltmarsh (Atriplex portulacoides, Cochlearia anglica, Limonium vulgare).)', '7(Species of lower saltmarsh (Spartina anglica, Suaeda maritima).)', '8(Species more or less permanently inundated in sea water (Zostera spp.).)', '9(Species of extremely saline conditions, in sites where sea water evaporates, precipitating salt (Salicornia europaea agg. these could equally well be treated as species of the lower marsh).)']"
+SN index,Ecological Flora,"['value (0-10)(Derived using the proportion of 10-km squares in which a species)', '(occurs in each of 13 region in Great Britain (see distribution pages for map). Each region is weighted according to how far north it is. Values have been scaled to range from 0-10 by setting the species with the most southerly distribution to a value of 0 and those with the most northerly to 10. Ireland has nt been included in this index.)']"
+Salinity,Ecological Flora,"['Fresh', 'Salt affected(in habitats receiving some salt input)', 'Brackish(receiving water with elevated salt content)', 'Saline(regularly covered by salt water)']"
+Seed / ovule ratio,Ecological Flora,['value']
+"Seed dry mass¬†(SeedMass, V).",Ecological Flora,"['(Average dry mass of seeds (including some single-seeded fruits such as achenes or caryopsis) (mg).)', 'very light(< 3 mg)', 'light(>= 3 and < 30 mg)', 'medium(>= 30 and < 300 mg)', 'heavy']"
+Seed production : 1. Maximum per flower,Ecological Flora,['value']
+Seed production : 1. typical range per flower,Ecological Flora,"['1', '45931', '10-100', '100-1000', '>1000']"
+Seed production : 1. typical range per plant,Ecological Flora,"['1', '45931', '10-100', '100-1000', '1000-10000', '>10000']"
+Seed size - length of longest axis,Ecological Flora,['value (mm)']
+Seed viability,Ecological Flora,"['high', 'some non-viable', 'many non-viable']"
+Seed weight: 1. maximum,Ecological Flora,['value (mg)(air-dry weight)']
+Seed weight: 1. mean,Ecological Flora,['value (mg)(air-dry weight)']
+Seed weight: 2. minimum,Ecological Flora,['value (mg)(air-dry weight)']
+Seedbank density,Ecological Flora,"['Value (seeds/sq m)', 'no seedbank recorded']"
+Seedbank longevity,Ecological Flora,"['<3 months', '3-12 months', '1-5 years', '5-20 years', '>20 years']"
+Seedbank type,Ecological Flora,
+"Seedling growth rate (initial, per day)",Ecological Flora,['value']
+Sepal Number,Ecological Flora,['value ?']
+"Serotiny level¬†(SerotinyLevel, V).",Ecological Flora,['(Average proportion of serotinous (closed) cones in the canopy (%) [Hern√°ndez-Serrano et al. 2013])']
+Shade,Ecological Flora,"['none', 'light', 'mid', 'deep']"
+Shade Tolerance,Ecological Flora,"['value 0-5(Low (0) to high (5) -Niinements & Validarez, Ecological Monographs 76:521‚Äì547)']"
+"Shoot:root ratio¬†(SRR, V).",Ecological Flora,"['(Shoot to root dry mass ratio in saplings (<=3 years old), excluding those from plantations.)', 'low(< 1.5)', 'high(>= 1.5)']"
+Soil Moisture 1: Drainage,Ecological Flora,"['free draining', 'slow draining']"
+Soil Moisture 1: Supply,Ecological Flora,"['Continuous', 'seasonal', 'intermittent']"
+Soil Moisture 1: Water Table,Ecological Flora,"['permanently high', 'periodically high', 'permanently low']"
+Soil nutrients,Ecological Flora,"['very fertile', 'fertile', 'infertile', 'very infertile']"
+Soil pH 1: extreme maximum,Ecological Flora,['value']
+Soil pH 2: extreme minimum,Ecological Flora,['value']
+Soil pH 3: Typical maximum,Ecological Flora,['value']
+Soil pH 4: Typical minimum,Ecological Flora,['value']
+"Soil seed bank longevity¬†(SoilSeedBank, V).",Ecological Flora,"['(Period that seeds remain viable in the soil seed bank inferred from: soil and vegetation comparisons (veg), experimental seed burial (bur), seed dormancy (dor) or unknown methods (unk). The method used is indicated after the vertical bar (response|method, e.g., persistent|veg).)', 'transient(no soil seed bank; seeds germinate in the first favorable season after dispersal. Normally seed bank longevity <= 1 yr (no persistent seed bank).)', 'persistent(seeds do not germinate in the first favorable season after dispersal. Normally seed bank longevity > 1 yr (could be longer but it is unknown).)', 'short-persistent(> 1 and <= 5 yr)', 'at least short-persistent(at least > 1 and <= 5 yr (could be longer but it is unknown).)', 'mid-persistent(at least > 5 yr (could be longer but it is unknown))', 'long-persistent(at least > 15 yr)', 'very long-persistent(>= 30 yr)']"
+Southern European Limit,Ecological Flora,['(Native taxa at their southern European limit in the Br. Isles)']
+"Southern European Limit (Lat, 5¬∫ band)",Ecological Flora,
+"Spinescence¬†(Spinescence, F).",Ecological Flora,"['(Presence/absence of spines, thorns, prickles and/or spiny leaves in vegetative organs.)', 'yes', 'no']"
+Spread,Ecological Flora,"['height >> width', 'height = width', 'height << width', 'not applicable(submerged aquatics)']"
+Stamen Number,Ecological Flora,['value ?']
+Status,Ecological Flora,"['native', 'naturalised(introduced by man and capable of maintaining self-sustaining populations)']"
+"Stem specific density¬†(StemDensity, V).",Ecological Flora,"['(Oven-dry mass divided by the fresh volume of a section of the main stem40 (excluding bark for woody species; i.e., wood density) (g cm-3).)']"
+Stems: 1.woodiness,Ecological Flora,"['non-woody', 'woody at base', 'woody']"
+Stems:2. Support,Ecological Flora,"['creeping', 'decumbent', 'procumbent', 'prostrate', 'scrambling', 'self-supporting', 'twining', 'tendrils', 'climbing by adventitious roots']"
+Stigma Number,Ecological Flora,['value ?']
+Stomata 1. surfaces present,Ecological Flora,"['both', 'lower', 'upper', 'none', 'stem']"
+Stomata:2 density on lower surface,Ecological Flora,['value (no per mm)']
+Stomata:2 density on upper surface,Ecological Flora,['value (no per mm)']
+Time of germination (season),Ecological Flora,"['spring', 'summer', 'autumn', 'winter', 'not observed']"
+Time of seed dispersal (season),Ecological Flora,"['Spring', 'summer', 'autumn', 'winter']"
+Typical abundance where naturally occurring,Ecological Flora,"['Dominant', 'frequent', 'scattered']"
+Upper glume (grasses) size and description,Ecological Flora,
+"Vegetative reproduction, persistence: 1 method",Ecological Flora,"['branching rootstock', 'buds', 'bulbils', 'bulbs', 'corms', 'creeping stock', 'rhizomes', 'root buds', 'rooting stem nodes', 'rooting twigs', 'stolons', 'suckers', 'turions', 'tubers']"
+"Vegetative reproduction, persistence: 2 pattern",Ecological Flora,"['patch forming(sufficiently close that shoots are juxtaposed)', 'diffuse ramets(connected but shoots dispersed)', 'ramets not connected', 'no ramets']"
+Water nutrient,Ecological Flora,"['eutrophic(Aquatic species)', 'mesotrophic', 'oligotrophic']"
+Water pH 1: extreme maximum,Ecological Flora,['value(aquatic and wetland species)']
+Water pH 2: extreme minimum,Ecological Flora,['value(aquatic and wetland species)']
+Water pH 3: Typical maximum,Ecological Flora,['value(aquatic and wetland species)']
+Water pH 4: Typical minimum,Ecological Flora,['value(aquatic and wetland species)']
+Waterlogging tolerance,Ecological Flora,"['Value 0-5(Low (0) to high (5) -Niinements & Validarez, Ecological Monographs 76:521‚Äì547)']"
+longevity of stems (years),Ecological Flora,"['<1', '45689', '45932', '10-100', '100-500', '>500']"
