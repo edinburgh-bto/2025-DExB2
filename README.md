@@ -3,6 +3,8 @@
 
 2025 delivery of Data Exploration in Biology 2nd year course, School of Biological Sciences, University of Edinburgh.
 
+ARCHIVE OF PAST DELIVERY - NO LONGER UPDATED. See https://github.com/edinburgh-bto/DExB2-development/ for development of future years.
+
 This repository contains all notebooks (.ipynb), code, and datasets relevant to the course.
 
 We plan to update the repository after each class with:
